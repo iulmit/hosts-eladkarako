@@ -1,0 +1,2 @@
+https://www.i-dont-care-about-cookies.eu/abp/
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
